@@ -101,5 +101,3 @@ while page_counter <= 333:
 
 
     page_counter += 1
-
-# testing
