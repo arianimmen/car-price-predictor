@@ -99,4 +99,7 @@ while page_counter <= 333:
         input_in_database(car_name, car_year, car_mileage,
                           car_accident, car_owner, car_color, car_price, page_counter)
 
+
     page_counter += 1
+
+# testing
